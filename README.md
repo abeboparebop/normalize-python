@@ -5,7 +5,7 @@ Python script to normalize input path. 'Normalize' means remove (and evaluate)
 instances of '.' and '..' in *nix path names. For example, executing
 
 ```
-  python norm.py /path/to/the/./first/../next/directory/../folder
+python norm.py /path/to/the/./first/../next/directory/../folder
 ```
 
 returns
