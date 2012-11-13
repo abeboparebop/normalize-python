@@ -10,5 +10,5 @@ returns
 
 ```/path/to/the/next/folder```.
 
-This is done via the function norm_path, which takes a string and returns the 
+This is done via the function norm_path, which takes a string as input  and returns the 
 normalized string.
